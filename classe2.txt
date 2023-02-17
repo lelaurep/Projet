@@ -2,20 +2,19 @@ class class2{
     public class2
 
     fct1{
-        inst1
-        inst2
-        inst3
+        inst1;
+        inst2;
+        //inst3; //release
     }
 
     fct2{
-        inst1
-        inst2
+        inst1;
+        inst2;
 
     }
 
     fct3{
-        inst1
-        inst2
-
+        inst1;
+        inst2;
     }
 }

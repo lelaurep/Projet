@@ -4,6 +4,7 @@ public class1() {}
 fct1{
     inst1;
     inst2;
+    inst3; //release
 }
 
 fct2{
@@ -19,6 +20,13 @@ fct3{
 fct4{
     inst1;
     inst2;
+}
+
+//release
+fct5{
+    inst1;
+    inst2;
+    inst3;
 }
 
 }
