@@ -2,15 +2,14 @@ class class3{
 public class3() {}
 
 fct1{
-    inst1;
-    inst2;
-    inst3; //release
+    inst1...;//test
+    inst2...;//test
+    inst3...;//test //release //test
 }
 
 fct2{
     inst1;
-    inst2;
-}
+    inst2...;//test
 
 fct3{
     inst1;
