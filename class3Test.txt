@@ -1,0 +1,20 @@
+class class3Test{
+
+
+fct1Test1{
+    inst1;
+    inst2;
+    inst3; //release
+}
+
+fct2Test1{
+    inst1;
+    inst2;
+}
+
+fct3Test1{
+    inst1;
+    inst2;
+}
+
+}
